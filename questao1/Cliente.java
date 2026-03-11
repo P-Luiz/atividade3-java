@@ -28,10 +28,10 @@ public class Cliente{
 
     void exibir(){
         System.out.println("\n----- DADOS DO CLIENTE -----");
-        System.out.println("NOME: "+this.nome);
-        System.out.println("TELEFONE: "+this.telefone);
-        System.out.println("CPF: "+this.cpf);
-        System.out.println("SEXO: "+this.sexo);
-        System.out.println("COMPROU: "+this.comprou);
+        System.out.println("NOME: "+ this.nome);
+        System.out.println("TELEFONE: "+ this.telefone);
+        System.out.println("CPF: "+ this.cpf);
+        System.out.println("SEXO: "+ this.sexo);
+        System.out.println("COMPROU: "+ this.comprou);
     }
 }
