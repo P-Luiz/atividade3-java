@@ -1,0 +1,3 @@
+7)      Para que serve o método main? Exemplifique.
+
+O método main é o ponto de entrada de qualquer programa Java. Sem ele, a Máquina Virtual Java (JVM) não sabe por onde começar a execução. É dentro dele que você instancia seus objetos e chama os métodos que criou nas outras classes.

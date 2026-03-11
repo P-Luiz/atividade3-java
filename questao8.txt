@@ -1,0 +1,18 @@
+8)      Escreva 3 atributos e 3 métodos para uma classe de pacientes, e o mesmo para médicos em uma consulta rotineira. A própria consulta poderia ser também uma classe? Comente sobre essa possibilidade.
+
+
+Sim, a Consulta pode ser uma classe, pois ela serve para "ligar" o Paciente ao Médico e armazenar dados próprios (como data e diagnóstico).
+
+
+
+Classe Paciente:
+
+Atributos: nome, idade, planoSaude.
+
+Métodos: cadastrar(), atualizarSintomas(), exibir().
+
+Classe Médico:
+
+Atributos: nome, crm, especialidade.
+
+Métodos: realizarExame(), prescreverMedicamento(), exibir().
